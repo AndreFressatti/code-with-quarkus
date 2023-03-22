@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
 	<meta charset="UTF-8">
-	<title>Quarkus Social - Read Me</title>
+	
 </head>
 <body>
 	<h1>Quarkus Social</h1>
