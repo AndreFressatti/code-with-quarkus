@@ -49,8 +49,7 @@
 	<li>Quarkus: Framework Java para Cloud Native</li>
 	<li>Hibernate: Framework ORM para persistência de dados</li>
 	<li>PostgreSQL: Banco de dados relacional</li>
-	<li>React: Biblioteca JavaScript para construção de interfaces de usuário</li>
-	<li>Bootstrap: Framework CSS para construção de interfaces de usuário responsivas</li>
+	<li>Panache: Biblioteca para a integração com banco de dados</li>
 </ul>
 
 <h2>Contribuindo</h2>
